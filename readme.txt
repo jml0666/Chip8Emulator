@@ -81,7 +81,7 @@ The Chip8 instruction set has 36 different instruction that need to be implement
 succesful implementation.
 The instruction set has instructions for mathematical operations, drawing and much more.
 
-Random comment to test push.
+Chip8 Technical Reference: http://devernay.free.fr/hacks/chip8/C8TECH10.HTM
 
 
 

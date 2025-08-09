@@ -7,4 +7,8 @@
 
 #define EMULATOR_WINDOW_TITLE   "Chip8 Emulator"
 #define CHIP8_WINDOW_MULTIPLIER 10 //Ten times the original window size
+
+#define CHIPT8_TOTAL_DATA_REGISTERS 16
+#define CHIP8_TOTAL_STACK_DEPTH     16
+
 #endif
